@@ -1,0 +1,17 @@
+# Папки зависимостей node.js
+node_modules/
+
+# Папка сборки frontend-приложения
+dist/
+
+# Папка сборки Rust проектов
+target/
+
+#Переменные и окружения
+.env
+
+.vscode/
+
+.DS_Store
+
+*.log
